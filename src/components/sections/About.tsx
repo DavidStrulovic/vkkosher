@@ -31,7 +31,11 @@ const About: React.FC = () => {
             Volove Kashrus began as a small local certification agency in Brooklyn. Over the decades, 
             we have grown into a globally respected and trusted authority in VK kosher certification, 
             serving thousands of companies across six continents. */}
-            Since 1955, 2 places by Rabbi Lipa Teitelbaum and rebranded in 1985 by his son, Rabbi N. E. Teitelbaum, VK Kosher represents the fourth generation in kosher supervision. What began as a small local certification agency in Brooklyn has grown over the decades into a globally respected and trusted authority in VK Kosher certification, serving thousands of companies across six continents. For over 70 years, our family has been dedicated to upholding the highest standards of kashrus, building a legacy of trust and expertise that consumers and businesses rely on.
+           
+{/*               Since 1955, 2 places by Rabbi Lipa Teitelbaum and rebranded in 1985 by his son, Rabbi N. E. Teitelbaum, VK Kosher represents the fourth generation in kosher supervision. What began as a small local certification agency in Brooklyn has grown over the decades into a globally respected and trusted authority in VK Kosher certification, serving thousands of companies across six continents. For over 70 years, our family has been dedicated to upholding the highest standards of kashrus, building a legacy of trust and expertise that consumers and businesses rely on. */}
+
+{/*             Update 07-07-2025 by Enrique */}
+              Since 1955, Rabbi Lipa Teitelbaum began overseeing kosher certification in two initial locations. In 1985, his son, Rabbi N. E. Teitelbaum, rebranded and expanded the organization, which is now known as VK Kosher. Representing the fourth generation in kosher supervision, VK Kosher has grown from a small Brooklyn-based agency into a globally trusted authority, serving thousands of companies across six continents. For over 70 years, our family has upheld the highest standards of kashrus, building a legacy of trust and expertise that businesses and consumers rely on.
             </p>
             
             <h3 className="font-serif text-2xl font-bold text-navy mb-4">Our Approach</h3>
